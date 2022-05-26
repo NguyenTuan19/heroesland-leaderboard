@@ -1,0 +1,17 @@
+.css-12mdxsu-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    background: -webkit-linear-gradient(90deg, #FF22E9 0%, #8F00FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.MuiSwitch-input {
+    left: 0 !important;
+}
+
+.MuiTableRow-root.MuiTableRow-hover.css-10cbwbc-MuiTableRow-root:hover {
+    background: #FFFFFF24;
+    border-right: 2px solid #FF22E9;
+}
+.css-10cbwbc-MuiTableRow-root.Mui-selected{
+    background: linear-gradient(90deg, #dc50ce52 27.6%, rgba(143, 0, 255, 0) 100%) !important;
+}
